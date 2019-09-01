@@ -1,3 +1,3 @@
 # Percolation
 
-- TODO: solve the backwash problem, and get 100+ in coursera
+- Calculate the phase changing probability that the system percolates in n-by-n grid
